@@ -5,12 +5,12 @@ In this project we jump into the intriguing challenge of forecasting traffic flo
 </p>
 
 A key step in our exploration is seasonal decomposition, where we unravel the cyclical patterns in traffic, revealing underlying trends and seasonality. The traffic flow time series looks like:
-<p align="center" width="75%">
-    <img width="75%" src="https://github.com/Cheeetah97/Traffic_Volume_Prediction/assets/62606459/b8951618-17c9-489a-84da-ed0947818b0a"> 
+<p align="center" width="50%">
+    <img width="50%" src="https://github.com/Cheeetah97/Traffic_Volume_Prediction/assets/62606459/b8951618-17c9-489a-84da-ed0947818b0a"> 
 </p>
 
-<p align="center" width="75%">
-    <img width="75%" src="https://github.com/Cheeetah97/Traffic_Volume_Prediction/assets/62606459/3d60f8a6-206c-4c17-801f-abb33effafc3"> 
+<p align="center" width="50%">
+    <img width="50%" src="https://github.com/Cheeetah97/Traffic_Volume_Prediction/assets/62606459/3d60f8a6-206c-4c17-801f-abb33effafc3"> 
 </p>
 
 
